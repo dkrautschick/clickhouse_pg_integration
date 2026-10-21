@@ -1,0 +1,4 @@
+# cp terraform.tfvars.example terraform.tfvars   (git-ignored)
+project_name = "my-aiven-project"
+cloud_name   = "google-europe-west1"
+with_kafka   = false
